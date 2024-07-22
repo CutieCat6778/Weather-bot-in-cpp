@@ -1,0 +1,3 @@
+/media/thinh/Developer/Weather-bot-in-cpp/build/CMakeFiles/WeatherBot.dir
+/media/thinh/Developer/Weather-bot-in-cpp/build/CMakeFiles/edit_cache.dir
+/media/thinh/Developer/Weather-bot-in-cpp/build/CMakeFiles/rebuild_cache.dir

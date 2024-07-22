@@ -1,0 +1,28 @@
+{
+  "commands": [
+    {
+      "name": "ping",
+      "description": "Ping the bot",
+      "options": [
+        {
+          "name": "private",
+          "description": "A direct message to user",
+          "choices": [
+            {
+              "name": "Only Me",
+              "value": "me"
+            },
+            {
+              "name": "Direct message",
+              "value": "dm"
+            }
+          ],
+          "required": false,
+          "type": "STRING"
+        }
+      ],
+      "timeout": 1000,
+      "permission": ["READ_MESSAGES"]
+    }
+  ]
+}

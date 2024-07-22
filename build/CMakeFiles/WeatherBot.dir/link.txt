@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/WeatherBot.dir/src/main.cpp.o CMakeFiles/WeatherBot.dir/src/event_listeners/ready.cpp.o CMakeFiles/WeatherBot.dir/src/event_listeners/slashcommand.cpp.o CMakeFiles/WeatherBot.dir/src/utils/utils.cpp.o -o WeatherBot  /usr/lib/libdpp.so 
